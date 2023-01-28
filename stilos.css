@@ -1,0 +1,28 @@
+p{
+  
+    color: rgb(10, 32, 131);
+   font-size: 20px;
+   font-weight: 100;
+   
+}
+h1{
+   
+    color: rgb(58, 40, 40)
+}
+h2{
+    
+    color: rgb(182, 137, 49);
+}
+section li {
+    font-family: 'Josefin Sans', sans-serif;
+    ;
+    color: rgb(24, 1, 46);
+}
+body{
+    background-color:rgb(219, 219, 184)
+}
+img{
+    width: 240px;
+    padding: 0 15px;
+    float: right;
+}
